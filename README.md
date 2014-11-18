@@ -7,3 +7,4 @@ Centos Django 1.7 tutorial
 cd mysite
 python manage.py runserver 199.223.210.224:8000
 http://199.223.210.224:8000/admin
+https://docs.djangoproject.com/en/1.7/intro/tutorial03/
